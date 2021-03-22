@@ -1,2 +1,2 @@
 # reactjs-pwa
-A demo of progressive web apps using react
+A demo of Progressive Web Apps using ReactJS.
